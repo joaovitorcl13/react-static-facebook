@@ -1,0 +1,25 @@
+.comment {
+  display: flex;
+  margin: 10px 0 10px;
+}
+
+.comment-author-avatar {
+  height: 28px;
+  border-radius: 16px;
+  margin-right: 10px;
+}
+
+.comment-content {
+  padding: 15px;
+  background: #EEEEEE;
+  border-radius: 20px;
+}
+
+.comment-content-author {
+  font-size: 13px;
+  font-weight: bold;
+}
+.comment-content-text {
+  font-size: 13px;
+  line-height: 14px;
+}

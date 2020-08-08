@@ -1,0 +1,26 @@
+.container {
+  background: #4a90e2;
+  display: flex;
+  justify-content: center;
+}
+
+header nav {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  align-items: center;
+  height: 64px;
+  padding: 0 42px;
+  align-items: center;
+}
+
+.logo {
+  height: 20px;
+}
+
+.profile-text {
+  color: #fff;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
